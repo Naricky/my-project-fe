@@ -23,7 +23,7 @@ function App() {
   });
 
   const [status, setStatus] = useState({
-    code: "Checking...",
+    code: "Checking.....",
   })
 
   useEffect(() => {
