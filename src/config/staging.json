@@ -1,0 +1,5 @@
+{
+    "appName": "rl",
+    "environment": "staging",
+    "backendURL": "https://backend.rickylee-development.com"
+}

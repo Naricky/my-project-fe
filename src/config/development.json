@@ -1,0 +1,5 @@
+{
+    "appName": "rl",
+    "environment": "development",
+    "backendURL": "http://localhost:8080"
+}

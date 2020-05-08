@@ -1,0 +1,5 @@
+{
+    "appName": "rl",
+    "environment": "production",
+    "backendURL": "https://api.domain.com"
+}
