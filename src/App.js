@@ -4,6 +4,7 @@ import "./App.css";
 
 import "./components/Info";
 import InfoPanel from "./components/Info";
+import Form from "./components/form";
 
 // Set config based on the environment variable the build was run under.
 let config = {};
@@ -53,6 +54,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>zero</h1>
         <InfoPanel data={data} status={status} config={config} />
+        <br/>
+        <Form>Enter your EP Info</Form>
       </header>
     </div>
   );
